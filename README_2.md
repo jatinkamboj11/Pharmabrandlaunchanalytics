@@ -146,7 +146,7 @@ pharma-launch-analytics/
 +-- README.md
 ```
 
-*Raw data (~85 MB) is not committed — it is fully regenerable by running `01pull_data.py`.*
+
 
 ---
 
