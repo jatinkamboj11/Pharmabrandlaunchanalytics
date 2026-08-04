@@ -114,15 +114,3 @@ python scripts/02clean_data.py     # run scripts in numbered order
 Each script consumes the previous stage's output — a reproducible pipeline.
 
 
-# Pharma Brand Launch Analytics
-> One-line description of the project
-
-## 📊 Dashboard        ← paste it HERE
-![Dashboard](assets/dashboard.png)
-...key insights...
-
-## Overview / Problem
-## Data Source
-## Methodology
-## Tech Stack
-## How to Run
