@@ -8,7 +8,7 @@ Segmenting 282,123 US anticoagulant prescribers, sizing a salesforce, designing 
 
 ## The Business Problem
 
-**Corvana Therapeutics** (fictional client) is preparing to launch **Carddil (fluxaban)**, a novel oral factor Xa inhibitor, into the US anticoagulant market — an established, crowded category where Eliquis and Xarelto displaced 60-year incumbent warfarin.
+Corvana Therapeutics (fictional client) is preparing to launch Carddil (fluxaban), a novel oral factor Xa inhibitor, into the US anticoagulant market — an established, crowded category where Eliquis and Xarelto displaced 60-year incumbent warfarin.
 
 Because the entry is late into a competitive market, success depends entirely on **commercial execution**. The VP of Commercial Operations needs three questions answered:
 
@@ -120,11 +120,11 @@ An executive Power BI report covering the full launch decision — market
 structure, prescriber targeting, salesforce sizing, and incentive payout.
 ## Dashboard Preview
 <img width="1387" height="805" alt="dashboard_ph" src="https://github.com/user-attachments/assets/d053d321-c05e-498a-a46b-8e1e783320f9" />
-**What it shows**
-- **282,123 prescribers** segmented into deciles by claims volume
-- **Top 30% of HCPs drive 77.6% of claims** — the core targeting thesis
-- **484 reps / $19.64M IC budget** sized from tiered call frequency
-- **Eliquis dominates** the market vs Xarelto & warfarin — the conversion play
+What it shows
+- 282,123 prescribers segmented into deciles by claims volume
+- Top 30% of HCPs drive 77.6% of claims** — the core targeting thesis
+- 484 reps / $19.64M IC budget sized from tiered call frequency
+- Eliquis dominates the market vs Xarelto & warfarin — the conversion play
 
 
 
