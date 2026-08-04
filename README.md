@@ -114,8 +114,17 @@ python scripts/02clean_data.py     # run scripts in numbered order
 Each script consumes the previous stage's output — a reproducible pipeline.
 
 # Pharma Brand Launch Analytics Dashboard
+## 📊 Dashboard
 
+An executive Power BI report covering the full launch decision — market
+structure, prescriber targeting, salesforce sizing, and incentive payout.
 ## Dashboard Preview
 <img width="1387" height="805" alt="dashboard_ph" src="https://github.com/user-attachments/assets/d053d321-c05e-498a-a46b-8e1e783320f9" />
+**What it shows**
+- **282,123 prescribers** segmented into deciles by claims volume
+- **Top 30% of HCPs drive 77.6% of claims** — the core targeting thesis
+- **484 reps / $19.64M IC budget** sized from tiered call frequency
+- **Eliquis dominates** the market vs Xarelto & warfarin — the conversion play
+
 
 
