@@ -116,8 +116,6 @@ Each script consumes the previous stage's output — a reproducible pipeline.
 # Pharma Brand Launch Analytics Dashboard
 
 ## Dashboard Preview
-
-<img width="1920" height="1080" alt="Screenshot (1616)" src="https://github.com/user-attachments/assets/536a4770-5f53-4201-8723-3992e01bf1d5" />
-
+<img width="1387" height="805" alt="dashboard_ph" src="https://github.com/user-attachments/assets/d053d321-c05e-498a-a46b-8e1e783320f9" />
 
 
