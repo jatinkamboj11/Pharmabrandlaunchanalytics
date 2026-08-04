@@ -119,7 +119,8 @@ Each script consumes the previous stage's output — a reproducible pipeline.
 An executive Power BI report covering the full launch decision — market
 structure, prescriber targeting, salesforce sizing, and incentive payout.
 ## Dashboard Preview
-<img width="1387" height="805" alt="dashboard_ph" src="https://github.com/user-attachments/assets/d053d321-c05e-498a-a46b-8e1e783320f9" />
+<img width="1390" height="801" alt="image" src="https://github.com/user-attachments/assets/241e1d57-f819-426c-81df-dbceda876fae" />
+
 What it shows
 - 282,123 prescribers segmented into deciles by claims volume
 - Top 30% of HCPs drive 77.6% of claims** — the core targeting thesis
