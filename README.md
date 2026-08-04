@@ -113,4 +113,11 @@ python scripts/02clean_data.py     # run scripts in numbered order
 
 Each script consumes the previous stage's output — a reproducible pipeline.
 
+# Pharma Brand Launch Analytics Dashboard
+
+## Dashboard Preview
+
+<img width="1920" height="1080" alt="Screenshot (1616)" src="https://github.com/user-attachments/assets/536a4770-5f53-4201-8723-3992e01bf1d5" />
+
+
 
