@@ -119,7 +119,8 @@ Each script consumes the previous stage's output — a reproducible pipeline.
 An executive Power BI report covering the full launch decision — market
 structure, prescriber targeting, salesforce sizing, and incentive payout.
 ## Dashboard Preview
-<img width="1390" height="801" alt="image" src="https://github.com/user-attachments/assets/241e1d57-f819-426c-81df-dbceda876fae" />
+<img width="1128" height="667" alt="image" src="https://github.com/user-attachments/assets/cb30160d-34ff-45e5-b20e-62480e7619b2" />
+
 
 What it shows
 - 282,123 prescribers segmented into deciles by claims volume
